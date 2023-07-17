@@ -1,2 +1,2 @@
 # git_test2
-ini adalah my status
+ini dalam masa tegang
